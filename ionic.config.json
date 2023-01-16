@@ -1,0 +1,7 @@
+{
+  "name": "SeriesApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
